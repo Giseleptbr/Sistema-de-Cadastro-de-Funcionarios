@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlCQo6mamXE=",
+  "success": true,
+  "projectFilePath": "/Users/giselefonseca/Documents/Projetos dotnet/Sistema de Cadastro de Funcionários /Sistema-de-Cadastro-de-Funcionarios/Sistema-de-Cadastro-de-Funcionarios.csproj",
+  "expectedPackageFiles": [
+    "/Users/giselefonseca/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/Users/giselefonseca/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

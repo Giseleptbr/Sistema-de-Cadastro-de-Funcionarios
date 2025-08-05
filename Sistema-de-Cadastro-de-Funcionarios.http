@@ -1,0 +1,6 @@
+@Sistema_de_Cadastro_de_Funcionarios_HostAddress = http://localhost:5291
+
+GET {{Sistema_de_Cadastro_de_Funcionarios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
